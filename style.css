@@ -50,8 +50,7 @@ a:hover{text-decoration: none; cursor:pointer;}
 	width:100%;
 	clear:both;
 	background: 50% 50% no-repeat;
-	padding;
-	0 50px;
+	padding: 0px 50px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -344,7 +343,7 @@ iframe{
 	width: 70em;
 }
 .modal-backdrop {
-   background-color: rgb(red);
+   background-color: red;
 }
 .modal-image {
 	width: 100%;
@@ -566,6 +565,9 @@ iframe{
         width: 100%;
         margin-bottom: 3.5em;
     }
+		#profesionales li {
+			text-align: left;
+		}
 }
 
 #implantologia img, #periodoncia img, #endodoncia img, #ortodoncia img, #odontopediatria img, #rehabilitacion_oral img, #cirugia_oral img, #estetica img {
@@ -588,3 +590,17 @@ text-align: justify;
 #profesionales .row {
 	padding: 1em 0;
 }
+
+
+
+
+
+.btn-default:hover {
+    background-color: #F4AE4C;
+    border: none;
+    
+}
+.thumbnail a:hover {
+    color: white;
+} 
+
