@@ -7,7 +7,7 @@
 		"uuidString": "7A9E60BF-EA6A-4CA2-86AA-49E1CA80CC91"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25849",
 "files": {
 	"\/android-chrome-144x144.png": {
 		"ft": 32768,
@@ -911,6 +911,26 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/img\/prensa\/abc_news.jpg": {
+		"ft": 16384,
+		"iS": 70151,
+		"oA": 0,
+		"oAP": "\/img\/prensa\/abc_news.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/prensa\/datos_mujer.jpg": {
+		"ft": 16384,
+		"iS": 43313,
+		"oA": 0,
+		"oAP": "\/img\/prensa\/datos_mujer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/prensa\/eldiario.jpg": {
@@ -4005,6 +4025,7 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
