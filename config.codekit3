@@ -286,10 +286,10 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/experiencia\/00011.MTS": {
+	"\/experiencia\/.00011.MTS.icloud": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/experiencia\/00011.MTS",
+		"oAP": "\/experiencia\/.00011.MTS.icloud",
 		"oF": 0
 		},
 	"\/favicon-16x16.png": {
@@ -2084,10 +2084,10 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/video\/karla_quiroga.mov": {
+	"\/video\/.karla_quiroga.mov.icloud": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/video\/karla_quiroga.mov",
+		"oAP": "\/video\/.karla_quiroga.mov.icloud",
 		"oF": 0
 		}
 	},
