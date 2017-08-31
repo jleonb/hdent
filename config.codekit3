@@ -7,7 +7,7 @@
 		"uuidString": "7A9E60BF-EA6A-4CA2-86AA-49E1CA80CC91"
 		}
 	],
-"creatorBuild": "25849",
+"creatorBuild": "25900",
 "files": {
 	"\/android-chrome-144x144.png": {
 		"ft": 32768,
@@ -286,10 +286,10 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/experiencia\/.00011.MTS.icloud": {
+	"\/experiencia\/00011.MTS": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/experiencia\/.00011.MTS.icloud",
+		"oAP": "\/experiencia\/00011.MTS",
 		"oF": 0
 		},
 	"\/favicon-16x16.png": {
@@ -1025,6 +1025,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/prensa\/tb_lacuarta.jpg": {
+		"ft": 16384,
+		"iS": 39332,
+		"oA": 0,
+		"oAP": "\/img\/prensa\/tb_lacuarta.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/prensa\/tb_lun.jpg": {
 		"ft": 16384,
 		"iS": 49324,
@@ -1152,6 +1162,16 @@
 		"iS": 448503,
 		"oA": 0,
 		"oAP": "\/img\/profesionales\/dra-pamela-ruiz.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/profesionales\/dra-paola-gamarra.jpg": {
+		"ft": 16384,
+		"iS": 146610,
+		"oA": 0,
+		"oAP": "\/img\/profesionales\/dra-paola-gamarra.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1816,6 +1836,7 @@
 		},
 	"\/js\/blocs.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/blocs-min.js",
@@ -1825,6 +1846,7 @@
 		},
 	"\/js\/bootstrap.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/bootstrap-min.js",
@@ -1834,6 +1856,7 @@
 		},
 	"\/js\/cssslidy-convenios.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/cssslidy-convenios-min.js",
@@ -1843,6 +1866,7 @@
 		},
 	"\/js\/cssslidy-promos.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/cssslidy-promos-min.js",
@@ -1852,6 +1876,7 @@
 		},
 	"\/js\/cssslidy.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/cssslidy-min.js",
@@ -1861,6 +1886,7 @@
 		},
 	"\/js\/jquery-2.1.0.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/jquery-2.1.0.min-min.js",
@@ -1870,6 +1896,7 @@
 		},
 	"\/js\/lightbox.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/lightbox-min.js",
@@ -2084,10 +2111,10 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/video\/.karla_quiroga.mov.icloud": {
+	"\/video\/karla_quiroga.mov": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/video\/.karla_quiroga.mov.icloud",
+		"oAP": "\/video\/karla_quiroga.mov",
 		"oF": 0
 		}
 	},
@@ -2503,6 +2530,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -2510,6 +2541,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -2607,6 +2642,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -2626,6 +2665,10 @@
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -2754,6 +2797,10 @@
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-caller": {
 			"active": 0,
@@ -3299,6 +3346,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -3367,6 +3418,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -3406,6 +3461,10 @@
 		"strict": {
 			"active": 0,
 			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
 			"active": 0,
@@ -4039,6 +4098,7 @@
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
